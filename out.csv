@@ -1,0 +1,580 @@
+stop_code,stop_name
+23713,PL. DANIŁOWSKIEGO
+24517,Bacciarellego
+10515,Poznańska
+20265,Pułaskiego
+11001,DWORZEC AUTOBUSOWY
+17305,Stanisławowska (W.K. Formaty)
+11511,Krucza
+10383,Kolejowa
+29533,Azaliowa
+11231,Uniwersytet Ekonomiczny
+18745,Wojanowska (Olbrachtowska)
+12707,Górnicza
+24513,Okrzei
+17115,Morelowskiego
+17126,Jordanowska
+24709,Niedziałkowskiego
+11546,Gajowicka (szkoła)
+12717,KOZANÓW
+29505,Przedwiośnie (Stacja kolejowa)
+11353,Sudecka
+11357,Skierniewicka
+11741,Aleja Wędrowców
+23303,Jarocińska
+50000043,Iwiny - Słoneczna
+10226,Dworzec Główny (Stawowa)
+23557,POLANOWICE
+17513,Rdestowa
+23538,Lawendowa
+23309,RĘDZIN
+26311,Kurpiów
+12405,Bajana
+18513,Lubelska
+17721,Jarnołtowska (Samotworska)
+10605,Kleczkowska
+29552,Przebiśniegowa
+10003,Rynek
+18747,Wojanowska (Stoszowska)
+24707,Swojczyce
+12519,KUŹNIKI (Stacja kolejowa)
+25301,Wiaduktowa
+23305,Lipska
+111403,Stalowa
+21131,GAJ
+21028,Świeradowska
+17510,Skarżyńskiego
+50000040,Iwiny - Kolejowa
+20629,Mosty Warszawskie
+21143,Kamienna (Widna)
+12002,Wrocławski Park Przemysłowy
+71951007,Ślęza (ul. Pszenna - autostrada)
+16405,Braterska
+26113,Tunelowa
+24123,Tczewska
+26307,Gałczyńskiego
+723975,BIELANY WROCŁAWSKIE
+23140,Bałtycka (szkoła)
+21129,Morwowa
+25003,KRAKOWSKA (Centrum handlowe)
+10015,Uniwersytet
+50000042,IWINY - pętla
+12603,PILCZYCKA (Anima)
+18017,Kosmonautów (Nowe Żerniki)
+12311,Popowice
+18009,Wschowska
+20611,Dubois
+23111,Łużycka
+17717,Kośnego
+24201,Kochanowskiego
+24138,Kowalska I
+16524,Wojszycka
+16515,Chłodna
+17103,Wiejska
+23560,KMINKOWA
+24409,Chełmońskiego
+12125,Nowy Dwór (Rogowska)
+10511,Inowrocławska
+24413,Spółdzielcza
+10517,DŁUGA (Politechnika)
+20321,DWORCOWA
+26115,ROD Mieczyk
+16513,Sowia
+23133,Pola
+17729,Żernicka (Stacja kolejowa)
+29123,Gorlicka
+23562,Waniliowa
+16719,ROD Bielany
+23113,Różanka
+23511,Perzowa
+12151,MUCHOBÓR MAŁY (Stacja kolejowa)
+12113,Centrum Zarządzania Kryzysowego
+716102,Biskupice Podgórne LG Chem
+17723,JARNOŁTÓW
+24703,Swojczycka
+23163,Jutrosińska
+716106,Biskupice Podgórne LG Electronics
+20815,PL. GRUNWALDZKI
+12713,Wiślańska
+18119,Fieldorfa
+20825,Bujwida
+17511,Strachowice General Aviation
+23723,Bagatela
+12149,Szkocka
+10021,GALERIA DOMINIKAŃSKA
+29517,KŁOKOCZYCE
+21105,Śliczna
+24121,Działdowska
+21176,SPISKA (Ośrodek sportu)
+50000057,MOKRY DWÓR
+24511,Partyzantów
+17317,Zagony
+21117,ROD Bajki
+29529,ROD Źródło Zdrowia
+71951005,Ślęza (ul. Przystankowa)
+29121,Psie Pole (Gorlicka)
+25509,Opatowicka nr 85
+24013,Bociania
+24305,Zacisze
+17713,Jasińskiej
+23149,Paprotna
+26301,Przystankowa
+26343,Kutrzeby
+12701,Kolista
+24214,SĘPOLNO
+16501,Zimowa
+17118,Marchewkowa
+12605,Modra
+18005,Kamiennogórska (Ośrodek dla niewidomych)
+716101,Biskupice Podgórne LG Display
+29535,Pawłowice
+12511,Na Ostatnim Groszu
+26110,Kajdasza
+29130,Psie Pole (Rondo Lotników Polskich)
+10001,Świdnicka
+16521,Wyścigowa
+17307,Krzemieniecka
+29129,Psie Pole (Rondo Lotników Polskich)
+24107,C.H. Korona
+29539,Kopańskiego
+10026,pl. Nowy Targ
+21011,Kamienna
+110241,Narodowe Forum Muzyki
+20817,Kliniki
+10601,Pomorska
+23503,Ostowa
+26345,ROD Storczyk
+18311,Średzka
+17120,POCZTA POLSKA
+10543,Robotnicza
+20904,Świętokrzyska
+23019,Wołowska
+11545,Racławicka (szkoła)
+18011,Jeleniogórska
+23001,most Osobowicki
+23315,Góra Kapliczna
+29518,Białych Goździków
+29131,KIEŁCZOWSKA (LZN)
+20726,Zakładowa
+21103,Borowska
+26327,Ożynowa
+11215,KRZYKI
+23307,Las Osobowicki
+17516,Graniczna (Strachowicka)
+23009,Bałtycka
+20723,Damrota
+24725,Ceglana
+25145,Blizanowicka
+723965,Bielany - PKP
+18127,Stabłowice
+10507,ZACHODNIA (Stacja kolejowa)
+23551,Milicka
+10502,PL. JANA PAWŁA II
+18145,Złotniki
+11609,GRABISZYŃSKA (Cmentarz)
+24127,Kowalska
+50000044,Iwiny - Polna
+12109,Nowy Dwór
+17719,Jarnołtowska (Krzeptowska)
+23541,POŚWIĘCKA (Ośrodek zdrowia)
+723973,Bielany - Kościół
+17301,Tyrmanda
+12143,Nowy Dwór (Stacja kolejowa)
+29101,Zielna
+12105,Wyższa Szkoła Bankowa
+50000064,BLIZANOWICE
+723963,Bielany - Boczna
+12100,Strzegomska 56
+23507,Kominiarska
+17709,Jerzmanowska nr 17
+24715,Strumykowa
+11603,Hutmen
+17715,Adamczewskich
+10413,Śrubowa
+17111,Awicenny
+716103,Biskupice Podgórne LG Innotek
+12407,Metalowców
+10053,Opera
+26309,Grota-Roweckiego
+17705,Strachowicka
+24729,Gospodarska
+723971,Bielany - MAKRO
+18015,Kosmonautów (Szpital)
+17711,JERZMANOWO (Cmentarz I)
+21127,Krynicka
+23505,OSOBOWICE (Stacja kolejowa)
+23312,Witkowska
+18531,Królewiecka
+18131,Kosmonautów (Nowe Żerniki)
+24701,Monopolowa
+26325,Malinowa
+24407,Tramwajowa
+24403,ZOO
+16505,Skarbowców
+21161,Armii Krajowej (Bogedaina)
+12313,Rysia
+20625,Jedności Narodowej
+25518,Opatowicka nr 127
+18503,Maślicka
+16407,Sąsiedzka
+20813,Reja
+23715,Czajkowskiego
+21019,Klimasa
+17138,Bukowskiego
+11612,GRABISZYŃSKA (Cmentarz II)
+10011,Oławska
+10240,Narodowe Forum Muzyki
+29503,Wallenroda
+23314,ŚLAZOWA
+20801,Ogród Botaniczny
+723961,Bielany - skrzyżowanie
+18517,Śliwowa
+29515,ROD Pod Dębem
+18546,Królewiecka (Staw)
+23003,Serbska (C.K. Agora)
+12203,Małopanewska
+18536,Dworska
+18001,Glinianki
+23703,Kasprowicza
+10651,Dmowskiego
+10221,Wzgórze Partyzantów
+10527,LITOMSKA (ZUS)
+17300,Muchobór Wielki (Roślinna)
+17101,Solskiego
+11453,Mielecka
+12513,Orlińskiego
+21109,Borowska (Szpital)
+17728,JERZMANOWO (Cmentarz II)
+18007,Złotnicka
+12127,Kołobrzeska
+24207,Stadion Olimpijski
+29313,Kiełczowska
+18717,Janówek
+11605,FAT
+17507,Graniczna
+23565,Tymiankowa
+18739,Wojanowska (Arachidowa)
+17707,Jerzmanowska nr 9
+24401,Hala Stulecia
+120817,Kliniki
+41124,Gajowa (Dawida)
+425900,WOJNÓW (pętla)
+29311,Poleska
+11654,GRABISZYNEK
+24711,Zagrodnicza
+24125,Kowale (Stacja kolejowa)
+18519,Warmińska
+23151,Irysowa
+10519,POPOWICE (Stacja kolejowa)
+11657,Aleja Pracy
+11713,Ostrowskiego
+29538,Pawłowicka
+25316,Chińska
+24103,Grudziądzka
+20203,pl. Zgody
+25303,Topolowa
+21111,PETRUSEWICZA
+18509,Kozia
+26303,Wojszyce
+12732,KOZANÓW (Dokerska)
+16724,KLECINA (Stacja kolejowa)
+21135,BARDZKA (Cmentarz)
+24521,Libelta
+10375,Piłsudskiego
+17311,MIŃSKA (Rondo Rotm. Pileckiego)
+11207,Sztabowa
+18003,Grabowa
+26339,ZWYCIĘSKA
+24136,Olsztyńska
+17501,Park Tysiąclecia
+10541,DW. ŚWIEBODZKI
+26101,Buforowa
+11235,Jaworowa
+20281,Urząd Wojewódzki
+20615,DWORZEC NADODRZE
+24130,Kowalska 56
+11211,Jastrzębia
+18505,Maślice Małe
+18116,Fieldorfa (Szpital)
+18711,PRACZE ODRZAŃSKIE (Stacja kolejowa)
+16401,Radio i Telewizja
+11320,EPI
+18147,Małopolska (Ośrodek dla niewidomych)
+11209,HALLERA
+11401,Pereca
+12538,Bulwar Dedala
+18013,Stadion Wrocław (Lotnicza)
+25515,Na Grobli
+23730,SOŁTYSOWICE
+21026,Morwowa
+17117,Marchewkowa
+20623,Na Szańcach
+21158,Złotostocka
+18518,Brodzka
+23553,Kątowa
+10051,Park Staromiejski
+21015,Nyska
+18143,Wielkopolska
+23719,Poprzeczna
+24713,Smocza
+24211,Godebskiego (AWF Wrocław)
+12901,Hermanowska
+23523,Żmigrodzka (Obwodnica)
+10245,Grabiszyńska
+29507,ZAKRZÓW
+21030,GAJ
+11548,Rymarska
+12104,Dolnośląska Szkoła Wyższa
+11035,Sanocka
+18525,RĘDZIŃSKA
+23013,Broniewskiego
+21171,Orzechowa
+716105,Biskupice Podgórne Dong Seo/Dong Yang
+23533,Kominiarska (plac sportowy)
+24728,Volvo - brama II
+29537,Starodębowa
+29103,Psie Pole
+10513,Szczepin
+20261,Komuny Paryskiej
+24205,Karłowicza
+24705,Magellana
+21133,Świeradowska
+29107,Dobroszycka
+11451,Gajowicka
+29105,PSIE POLE (Stacja kolejowa)
+23721,Redycka
+20851,Prusa
+24717,Wojnów
+26317,rondo Św. Ojca Pio
+11343,Drukarska
+10603,PL. STASZICA
+25505,Bierdzany
+50000059,Trestno
+10243,pl. Legionów
+16503,Os. Przyjaźni
+12201,Niedźwiedzia
+21139,GAJ - pętla
+18507,Północna
+50000055,STARODWORSKA (ZUW)
+20613,Paulińska
+11531,Zaporoska
+20205,Na Niskich Łąkach
+12403,Park Zachodni
+16701,Kościelna
+26329,Husarska
+25503,Międzyrzecka
+11607,Fiołkowa
+24303,Śniadeckich
+723951,Wysoka Osiedle
+723955,Wysoka-Chabrowa
+25309,BROCHÓW
+29521,Królewska
+18737,Wojanowska
+11543,Racławicka
+20332,Krasińskiego
+23007,OSOBOWICKA (Cmentarz)
+12133,Zemska
+16525,Hippiczna
+20665,Słowiańska
+23517,Rzemieślnicza
+16500,Skarbowców
+21007,Gajowa
+25141,Księska
+20803,Górnickiego
+12131,ROD Tysiąclecia
+11525,KOLBUSZOWSKA (Stadion)
+25005,Armii Krajowej
+25511,OPATOWICE
+12157,ROD Oświata
+26105,Lamowice
+23515,ŚWINIARY
+11237,Weigla (Szpital)
+29554,PAWŁOWICE (Widawska)
+50000062,TRESTNO (pętla)
+18719,Zbożowa
+23165,KAMIEŃSKIEGO (pętla)
+18111,Stadion Wrocław (Lotnicza)
+20669,Wyszyńskiego
+11513,Grochowa
+24203,Chopina
+29317,Kowieńska
+24515,Monte Cassino
+11721,Inżynierska
+11339,Dworzec Główny (Stawowa)
+25009,Karwińska
+11523,Krucza (Mielecka)
+11747,BLACHARSKA
+29321,Szewczenki
+24411,Piramowicza
+18715,JANÓWEK (WOŚ)
+20811,Katedra
+23011,KARŁOWICE
+11323,Zielińskiego
+29315,Żmudzka
+723976,Bielany - Kwiatowa
+10405,pl. Strzegomski (Muzeum Współczesne)
+12601,Kolista
+11233,Wiśniowa
+29536,Malwowa
+10524,Długa
+10009,Wita Stwosza
+16716,Kwiatkowskiego
+50395001,Iwiny (Rondo)
+10013,Uniwersytecka
+21173,BARDZKA
+23710,KOSZAROWA (Szpital)
+18528,Brodnicka
+26108,Konduktorska
+18113,Kosmonautów (Szpital)
+18129,Park Stabłowicki
+18705,Główna
+18515,Maślicka (Osiedle)
+17726,Szkoła Żerniki
+723953,Wysoka-Radosna
+11201,Zaolziańska
+29513,Piwnika - Ponurego
+26313,Ołtaszyn
+11205,Rondo
+17309,Końcowa
+18535,Suwalska
+11330,Arena
+20627,Nowowiejska
+12540,Szybowcowa
+29925,Kiełczowska (Cmentarz)
+20807,Grunwaldzka
+12517,Hynka
+12107,Nowodworska
+17509,Zarembowicza
+24011,Gęsia
+24311,Park Szczytnicki
+23701,Berenta
+11745,Ślusarska
+24003,KROMERA
+12607,Kozanowska
+25317,Park Brochowski
+23717,Koszarowa
+25517,Opatowicka nr 59
+26335,Świt
+17129,Tyniecka
+17505,Przybyły
+24719,Kmieca
+24145,Kromera (Czajkowskiego)
+23201,most Milenijny
+21005,Joannitów
+21024,Krynicka
+11213,Orla
+17113,Adamieckiego
+29501,Zakrzowska
+24209,8 Maja
+25118,Brochowska
+50000053,Starodworska
+17737,Samotworska
+23167,Gąsiorowskiego
+23725,KOSZAROWA (Uniwersytet)
+18720,Stabłowicka
+11333,Komandorska
+10411,Dolmed
+23169,Kamieńskiego (Szpital)
+17128,TYNIECKA (pętla)
+12510,Rękodzielnicza
+11549,RACŁAWICKA (pętla)
+23709,Przybyszewskiego
+25501,Rakowiecka
+16715,Słoneczna
+21155,Gazowa
+26103,Jagodno
+11355,Jarzębinowa
+10509,Głogowska
+25007,Park Wschodni
+12523,METALOWCÓW (Ośrodek sportu)
+18125,Ciechocińska
+12123,Chociebuska
+21107,Działkowa
+25507,Nowy Dom
+23513,Zajączkowska
+23161,Mochnackiego
+20720,Słonimskiego
+18123,Śnieżna
+12401,DH Astra
+23015,Kamieńskiego
+18523,Turoszowska
+12319,Hala Orbita
+25305,BROCHÓW (Stacja kolejowa)
+12205,Kwiska
+18703,Wełniana
+11405,pl. Srebrny
+12611,Górnicza
+25308,Semaforowa
+17703,Żerniki
+11403,Stalowa
+24007,Kętrzyńska
+25319,Ziemniaczana
+24721,Mikołowska
+11335,Pl. Hirszfelda
+29108,BIERUTOWSKA (Ośrodek zdrowia)
+71951011,Ślęza (ul. Dębowa)
+12111,Rogowska
+24509,BARTOSZOWICE
+17733,Gałowska
+10233,Arkady (Capitol)
+25001,Krakowska
+16403,Przyjaźni
+11203,Wielka
+24105,Brücknera
+20302,Poczta Główna
+23555,Ługowa
+12153,Wrocławski Park Technologiczny
+23727,Sołtysowicka
+11601,Bzowa (Centrum Zajezdnia)
+24723,Miłoszycka
+11239,Pułtuska
+20821,most Grunwaldzki
+18701,Chwałkowska
+23017,Kępińska
+18511,Jędrzejowska
+23543,Poświęcka
+10503,Młodych Techników
+23563,Cynamonowa
+50000041,Iwiny - Brochowska
+17701,Szczecińska
+17503,Zagłoby
+12136,NOWY DWÓR (pętla)
+12715,Dzielna
+23005,OSOBOWICKA (Cmentarz II)
+20621,pl. Bema
+24727,Volvo
+18709,STABŁOWICKA (Ośrodek zdrowia)
+29319,Inflancka
+12541,Bystrzycka
+20617,Trzebnicka
+25011,Głubczycka
+25314,BIEŃKOWICE
+12515,Drzewieckiego
+23154,Obornicka (Obwodnica)
+10223,DWORZEC GŁÓWNY
+17735,Żernicka
+16721,Połabian
+25513,Zalewowa
+26305,Parafialna
+26315,Strachowskiego
+716718,AUCHAN
+12409,PILCZYCE
+26321,Oboźna
+21009,Prudnicka
+21017,Transbud
+12903,KUŹNIKI
+11651,Ojca Beyzyma
+25115,Zagłębiowska
+12315,Wejherowska
+10023,Hala Targowa
+10232,Renoma
+25311,Arabska
+12609,KOZANÓW (Dokerska)
+17130,Kwiatkowskiego (Rondo)
+125003,KRAKOWSKA (Centrum handlowe)
+17303,Muchobór Wielki
+16517,Wawrzyniaka
+23509,LIPA PIOTROWSKA
+10008,ŚWIDNICKA (Dom Europy)
+24009,Kwidzyńska
+726951,Wysoka

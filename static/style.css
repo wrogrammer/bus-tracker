@@ -1,0 +1,64 @@
+body {
+    background-color: #FAFBFD;
+    font-family: 'PT Sans', sans-serif;
+    width: 100%;
+    text-align: center;
+}
+
+* {
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+    text-align: center;
+}
+
+*:before, *:after {
+    box-sizing: inherit;
+}
+
+*::-webkit-scrollbar {
+    display: none;
+}
+
+.footer {
+    font-size: 18px;
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 5px;
+    background-color: #efefef;
+    text-align: center;
+}
+
+.fa_pulse {
+    color: #E90606;
+    margin: 0 3px;
+    font-size: 10px;
+    animation: pound 0.35s infinite alternate;
+    -webkit-animation: pound 0.35s infinite alternate;
+}
+
+@-webkit-keyframes pound {
+  to {
+    transform: scale(1.1);
+  }
+}
+@keyframes pound {
+  to {
+    transform: scale(1.1);
+  }
+}
+
+.green, .green:hover {
+    color: #065606;
+    text-decoration: none;
+}
+
+.row{
+    margin: 20px;
+}
+
+tr:hover{
+ background: bisque !important;
+}

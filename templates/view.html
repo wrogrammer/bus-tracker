@@ -1,0 +1,80 @@
+<html lang="EN" xmlns="http://www.w3.org/1999/html">
+<head>
+    <!--meta-->
+    <meta charset="UTF-8" />
+    <meta name="author" content="Wrogrammer" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <title>PTM Project</title>
+    <!--styles-->
+    <link rel="stylesheet" type='text/css' href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css">
+    <link href="https://fonts.googleapis.com/css?family=PT+Sans" rel="stylesheet">
+    <link rel='stylesheet prefetch' type='text/css' href='https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css'>
+    <link rel="stylesheet prefetch" type="text/css" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" />
+    <link rel="stylesheet prefetch" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/hover.css/2.3.1/css/hover-min.css" />
+    <link rel=stylesheet type=text/css href="/static/style.css">
+    <!--stylesEnd-->
+</head>
+<body>
+    <nav id="progress" class="navbar navbar-light">
+        <a href="/" class="navbar-brand ml-4"><strong>START</strong></a>
+        <ul class="navbar-nav mr-auto">
+            <form class="form-inline mt-3">
+                <input id="search_place" class="form-control ml-5" type="search" placeholder="Nazwa przystanku:" aria-label="Przejdź">
+                <button id="search" class="btn btn-success hvr-grow ml-2" type="submit">Przejdź</button>
+                <button id="refresh" class="btn btn-outline-secondary hvr-shrink ml-2" type="submit">Odśwież</button>
+            </form>
+        </ul>
+    </nav>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-lg-6">
+                {% if tables %}
+                <p class="h4">
+                    <strong id="stop_id">{{ variable|safe }}</strong></p>
+                {% else %}
+                <p class="h4">
+                    <strong id="stop_id">Wybierz przystanek...</strong></p>
+                {% endif %}
+                {% with messages = get_flashed_messages() %}
+                    {% if messages %}
+                        <div class="alert alert-warning alert-dismissible fade show" role="alert">
+                            {% for message in messages %}
+                                {{ message }}
+                            {% endfor %}
+                            <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                                    <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
+                    {% endif %}
+                {% endwith %}
+                <div class="table-striped card">
+                    {% if tables %}
+                        {% for table in tables %}
+                            {{ table|safe }}
+                        {% endfor %}
+                    {% endif %}
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title"><strong>MPK Real time buses and trams tracker</strong></h5>
+                        <h6 class="card-subtitle mb-2 text-muted">PTM Project</h6>
+                        <p class="card-text">The project was implemented as part of the Basics of microprocessor technology (PTM) course in the cooperation of Ph.D Marcin Jaroszewski at the <a target="_blank" href="http://pwr.edu.pl/en/">Wroclaw University of Technology</a>.</p>
+                        <p>Technologies:</p>
+                        <li>Flask</li>
+                        <li>Redis</li>
+                        <li>PostgreSQL</li>
+                        <br>
+                        <a target="_blank" href="https://wrogrammer.com/" class="card-link">Check out my blog!</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer">Made with <i class="fa fa_pulse fa-heart pulse"></i>by <a class="green" target="_blank" rel="noopener" href="http://wrogrammer.com/"><strong>Wrogrammer</strong></a></div>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script type="text/javascript" src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="/static/script.js"></script>
+</body>
+</html>
